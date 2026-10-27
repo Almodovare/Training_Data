@@ -1,0 +1,21 @@
+﻿https://www.kaggle.com/datasets/sdcloud/historical-bakery-sales-dataset/data;
+;
+;This dataset can be used for:
+;1. Exploratory data analysis and sales trend visualization.
+;2. Bakery product demand forecasting using machine learning algorithms.
+;3. Product-wise, monthly, seasonal, weekend, and festival sales analysis.
+;4. Inventory planning and stock requirement estimation.
+;5. Unsold stock and potential food-waste analysis.
+;6. Customer segmentation and purchasing behavior analysis.
+;7. Promotion and discount analysis.
+;8. Market basket analysis and product bundle recommendations.
+;9. Sales and inventory dashboards using Power BI or Python.
+;
+;The dataset includes the following categories of information:
+;Customer information: Customer age, gender, customer segment, loyalty membership, and customer ratings.
+;Date and time: Transaction dates, year, month, day, day of the week, weekend indicator, hour, and time.
+;Product information: Product name, category, shelf life, storage type, and perishability level.
+;Pricing and sales: Quantity, unit price, cost price, selling price, discount percentage, and total bill.
+;Promotions and external factors: Promotion status, promotion type, festival, season, weather, and temperature.
+;Inventory and waste: Units produced, units sold, unsold units, available stock, and waste percentage.
+;Business performance: Profit, payment method, and store identification.
